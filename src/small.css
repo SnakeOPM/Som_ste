@@ -3,4 +3,9 @@ body{
     color: #FBFCFF;
     font-size: 15px;
     margin: 0;
+    background-color: #1C6E8C;
+    text-decoration: none;
+}
+a{
+    background-color: #FBFCFF;
 }
