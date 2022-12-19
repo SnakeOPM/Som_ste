@@ -187,13 +187,13 @@ body{
     margin-right: auto;
     margin-top: 40px;
     background-color: #1C6E8C;
-    width: 999px;
-    max-width: 1500px;
+    width: 52%;
+    max-width: 52%;
     min-height: 285px;
 }
 
 .we__are__working{
-    width: 629px;
+    max-width: 69%;
     font-weight: 400;
     font-size: 44px;
     line-height: 54px;
@@ -247,15 +247,15 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: 40px;
-    width: 1216px;
-    min-width: 700px;
+    max-width: 63%;
+    min-width: 56%;
     height: 347px;
     background-color: #1C6E8C;
     position: relative;
 }
 .category{
     padding-top: 27px;
-    width: 1000px;
+    max-width: 83%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -291,7 +291,7 @@ body{
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 1000px;
+    max-width: 83%;
     min-width: 500px;
     padding-top: 21px;
 }
@@ -307,16 +307,21 @@ body{
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .cam_desc{
-    width: 1110px;  
+    max-width: 1110px;  
+    height: 58px;
+    margin-left: 3%;
+}
+.j{
+    margin-left: 99px;
 }
 .m{
-    margin-left: 70px;
+    margin-left: 66px;
 }
 .p{
-    margin-left: 60px;
+    margin-left: 44px;
 }
 .abc{
-    margin-right: 50px;
+    margin-left: 22px;
 }
 .recent__clients{
     display: block;

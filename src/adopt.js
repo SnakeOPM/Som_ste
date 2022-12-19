@@ -22,7 +22,7 @@ function appendAssets() {
     }
     else if (window.innerWidth <= 1299 && window.innerWidth >= 768) {
         console.log('fdg')
-        loadjscssfile("src/medium.css", "css"); 
+        loadjscssfile("src/index.css", "css"); 
     }
     else if (window.innerWidth >= 1300) {
         console.log('big file')
